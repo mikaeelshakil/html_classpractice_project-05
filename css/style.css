@@ -1,0 +1,352 @@
+body{
+	margin:40px 40px 40px 40px;
+	font-family: lato;
+}
+.headline{
+	margin: auto;
+	text-align: center;
+	padding: 0px 0px 70px 00px;
+}
+.header{
+	overflow: hidden;
+	display: inline;
+}
+.logo{
+	width: 20%;
+	padding: 0px 100px 0px 0px;
+	float: left;
+	display: inline;
+}
+.menubar{
+	width: 60%;
+	float: center;
+	word-spacing: 40px;
+	font-family: lato;
+	font-weight: 450;
+	display: inline;
+}
+.intro{
+	display: inline;
+	float: right;
+}	
+a {
+    text-decoration: none;
+}
+.middle{
+	padding: 0px 0px 0px 40px;
+	overflow: hidden;
+}
+.para{
+font-size: 16px;
+line-height: 33px;
+display: inline;
+float: left;
+width: 60%;
+text-align: justify;
+}
+#img{
+display: inline;
+float: right;
+}
+.button{
+  color: white;
+  padding: 16px 32px;
+  margin-top: 37px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  float: left;
+}
+
+.button1{
+  background-color: white; 
+  color: black; 
+  border: 4px solid #4CAF50;
+}
+
+.button1:hover {
+  background-color: #4CAF50;
+  color: white;
+
+}
+.middle2{
+	padding: 0px 25px 0px 30px;
+	margin: 2px 2px;
+	overflow: hidden;
+	align-content: center;
+	background: center;
+	background-color: #EAEAEA;
+	height: 500px;
+}
+#h6{
+text-align: center;
+font-size: 16px;
+display: block;
+padding: 10px 10px 0px 10px;
+margin: 10px 10px 10px 10px;
+}
+
+#h1{
+text-align: center;
+display: block;
+margin: 1px 1px 1px 1px;
+}
+.img1{
+	margin: 2px 2px;
+	padding: 2px 2px;
+}
+.img2{
+	margin: 2px 2px;
+	padding: 2px 2px;
+}
+.img3{
+	margin: 2px 2px;
+	padding: 2px 2px;
+}
+.img4{
+	margin: 2px 2px;
+	padding: 2px 2px;
+}
+.button3{
+  color: white;
+  padding: 16px 32px;
+  margin: 35px 35px 35px 10px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  align-content: center;
+}
+.button2{
+  background-color: white; 
+  color: black; 
+  border: 4px solid #008CBA;
+  align-content: center;
+}
+
+.button2:hover {
+  background-color: #008CBA;
+  color: white;
+  align-content: center;
+}
+
+#footer{
+	width: 100%;
+	height: 160px;
+	text-align: center;
+	align-content: center;
+	padding: 30px 10px 10px 10px;
+	background-color: #EAEAEA;
+}
+.h5{
+text-align: center;
+display: block;
+padding: 1px 1px 0px 1px;
+margin: 1px 1px 0px 1px;
+}
+.h1{
+text-align: center;
+display: block;
+margin: 5px 1px 1px 1px;
+}
+.email{
+text-align: center;
+margin: 1px 1px 2px 1px;
+}
+#footermenubar{
+    align-content: center;
+    float: center;
+	word-spacing: 40px;
+	font-family: lato;
+	font-weight: 450;
+	margin: 1px 1px 1px 1px;
+}
+
+.para3{
+width: 100%;
+font-size: 16px;
+line-height: 33px;
+display: inline;
+float: left;
+text-align: justify;
+margin: 20px 20px 20px 0px;
+}
+
+.Rectangle{
+	position: absolute;
+    width: 300px;
+    height: 10px;
+    background: #CDCDCD
+}
+    .Rectangle{
+    	position: absolute;
+        width: 300px;
+        height: 10px;
+        background: #CDCDCD
+    }
+.Rectangle2{
+	position: absolute;
+        width: 230px;
+        height: 10px;
+        background: #be9241
+    }
+.Rectangle3{
+	position: absolute;
+        width: 270px;
+        height: 10px;
+        background: #be9241
+    }
+.Rectangle4{
+	position: absolute;
+        width: 250px;
+        height: 10px;
+        background: #be9241
+    }
+
+.Rectangle5{
+    	position: absolute;
+        width: 265px;
+        height: 10px;
+        background: #be9241
+    }
+.Rectangle6{
+	position: absolute;
+        width: 280px;
+        height: 10px;
+        background: #be9241
+    }
+.Rectangle7{
+	position: absolute;
+        width: 285px;
+        height: 10px;
+        background: #be9241
+    }
+   
+    }
+    #middle4{
+    	margin: 20px 20px 20px 20px;
+    	display: inline;
+    }
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 20px 20px;
+}
+  table{
+  	color: black;
+  }
+#middle5{
+    margin: 20px 20px 20px 20px;
+    	display: inline;
+    }
+.project{
+	text-align: justify;
+	width: 80%;
+	align-content: center;
+	font-size: 16px;
+	line-height: 32px;
+	margin: auto;
+	display: block;
+
+ }
+ .cap1{
+ 	align-content: center;
+ }
+.img{
+	align-content: center;
+	margin: auto;
+	display: block;
+}
+.button5{
+  color: white;
+  padding: 16px 32px;
+  margin-top: 37px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  display: block;
+  margin: auto;
+ 
+}
+.button6{
+  background-color: white; 
+  color: black; 
+  border: 4px solid #008CBA;
+  align-content: center;
+}
+
+.button6:hover {
+  background-color: #008CBA;
+  color: white;
+  align-content: center;
+}
+.cap2{
+	display: block;
+	text-align: justify;
+	width: 80%;
+	font-size: 16px;
+	line-height: 32px;
+}
+cite{
+	font-size: 18px;
+	font-weight: 600;
+}
+.figcap1{
+	display: block;
+	margin: auto;
+	padding: 5px 5px;
+	align-content: center;
+	text-align: center;
+}
+.blog1{
+	font-size: 16px;
+	line-height: 32px;
+	text-align: justify;
+}
+.blog2{
+	font-size: 16px;
+	line-height: 35px;
+	font-family: sutonMj;
+	text-align: justify;
+}
+legend{
+	background-color: #EAEAEA;
+	padding: 2px 5px 2px 5px;
+}
+.address1{
+	float: left;
+	font-size: 16px;
+	line-height: 32px;
+	padding: 0px 0px 0px 200px;
+	
+}
+.address2{
+	float: right;
+	font-size: 16px;
+	line-height: 32px;
+	padding: 0px 200px 0px 0px;
+	
+}
+.Address{
+	overflow: hidden;
+}
+.smedia{
+	display: block;
+	margin: auto;
+}
+#smedia{
+	display: block;
+	overflow: hidden;
+	font-size: 16px;
+	line-height: 32px;
+	padding: 0px 0px 0px 200px;
+}
+#h3{
+	display: block;
+	margin: 0px 0px 0px 0px;
+}
